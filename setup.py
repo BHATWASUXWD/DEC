@@ -1,7 +1,6 @@
 # Jangan Lupa Subscribe Yt Gw yak Bre !!
 import os, sys
 script_name = 'mardis.py'
-source_code = open(script_name).read()
 path = sys.prefix
 bin_path = path + '/bin/' + script_name[:-3]
 lib_path = path + '/lib/python2.7/' + script_name
